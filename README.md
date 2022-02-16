@@ -28,6 +28,11 @@ cd math-magians in the terminal.
 - Install packages using the command npm install
 - run the project locally by entering the command npm start
 
+## Project Status
+This project is in progress.
+
+## Screenshoots
+![screenshot](./src/assets/calcpic.png)
 
 ## Live Demo (if available)
 
