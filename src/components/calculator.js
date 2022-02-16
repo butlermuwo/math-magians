@@ -27,9 +27,9 @@ class Calculator extends react.Component {
 
   render() {
     const { total, next } = this.state;
-    const btns = ['AC', '+/-', '%', '÷', '7', '8', '9', 'x', '4', '5', '6', '-', '1', '2', '3', '+', '0', '.', '=',];
+    const btns = ['AC', '+/-', '%', '÷', '7', '8', '9', 'x', '4', '5', '6', '-', '1', '2', '3', '+', '0', '.', '='];
     return (
-      <div className='main-container'>
+      <div className="main-container">
         {next ? (
           <div className="display-screen">{next}</div>
         ) : (
