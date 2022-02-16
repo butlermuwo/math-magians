@@ -32,7 +32,7 @@ cd math-magians in the terminal.
 This project is in progress.
 
 ## Screenshoots
-![screenshot (65)](src/assets/Screenshot (65).png)
+![screenshot](./src/assets/calcpic.png)
 
 ## Live Demo (if available)
 
