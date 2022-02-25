@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-key */
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
@@ -20,6 +19,7 @@ const NavBar = () => {
       text: 'Quote',
     },
   ];
+  
   return (
     <header>
       <h1 className="title">Math Magicians</h1>

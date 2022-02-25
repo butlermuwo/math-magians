@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-key */
 import React, { useState } from 'react';
 import './calculator.css';
 import calculate from '../logic/calculate';
