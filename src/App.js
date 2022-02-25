@@ -1,4 +1,6 @@
 /* eslint-disable react/jsx-key */
+/* eslint-disable import/extensions */
+
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
