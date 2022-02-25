@@ -19,7 +19,7 @@ const NavBar = () => {
       text: 'Quote',
     },
   ];
-  
+
   return (
     <header>
       <h1 className="title">Math Magicians</h1>
