@@ -1,5 +1,4 @@
 /* eslint-disable react/jsx-key */
- // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/extensions.md
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
