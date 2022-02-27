@@ -32,8 +32,7 @@ cd math-magians in the terminal.
 This project is in progress.
 
 ## Screenshoots
-![screenshot](./src/assets/calcpic.png)
-
+![screenshot](./src/assets/finalshot.png)
 ## Live Demo (if available)
 
 [Live Demo Link](https://unruffled-payne-458b03.netlify.app/)

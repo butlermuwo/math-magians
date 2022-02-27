@@ -3,6 +3,7 @@
   top: 20%;
   right: 40%;
   width: 341px;
+  margin-top: 2%;
 }
 
 .display-screen {
@@ -36,4 +37,71 @@
 .btn-equals {
   background: #f5913e;
   padding: 15px 37px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73, 79, 89);
+  color: #fff;
+  gap: 48%;
+}
+
+nav {
+  margin-left: 20%;
+}
+
+.nav-links {
+  display: flex;
+  width: 40%;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.nav-links li {
+  margin-right: 30%;
+}
+
+.title {
+  display: flex;
+
+  /* position: absolute;
+  top: -10px;
+  left: 10px;
+  color: orange; */
+}
+
+.home {
+  width: 50%;
+  margin: auto;
+  font-size: 25px;
+  margin-top: 5%;
+}
+
+.welcome-msg {
+  font-size: 30px;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.qutoe {
+  font-size: 25px;
+  margin-top: 10%;
+  text-align: center;
+  font-family: 'Eater', cursive;
+}
+
+.math {
+  margin-top: 12%;
+  font-size: 25px;
+  font-family: 'Eater', cursive;
+  margin-left: 3%;
 }
