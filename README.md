@@ -33,7 +33,7 @@ This project is in progress.
 
 ## Screenshoots
 ![screenshot](./src/assets/finalshot.png)
-## Live Demo 
+## Live Demo()
 [Live Demo Link](https://unruffled-payne-458b03.netlify.app/)
 ## Authors
 
