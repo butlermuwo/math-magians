@@ -35,6 +35,7 @@ This project is in progress.
 ![screenshot](./src/assets/finalshot.png)
 ## Live Demo()
 [Live Demo Link](https://unruffled-payne-458b03.netlify.app/)
+[Live Demo Link](https://math-magians.herokuapp.com/)
 ## Authors
 
 👤 **Author1**
